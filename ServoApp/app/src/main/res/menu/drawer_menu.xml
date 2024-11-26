@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_gyro_mode"
+        android:title="Gyroscope Mode"
+        android:icon="@drawable/ic_gyro"
+        android:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_manual_mode"
+        android:title="Manual Mode"
+        android:icon="@drawable/ic_manual"
+        android:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_reset"
+        android:title="Reset Angle"
+        android:icon="@drawable/ic_reset"
+        android:showAsAction="never" />
+</menu>
